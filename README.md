@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vmerlin02 Merlin Varghese
 - 👀 I’m interested in Neutrino Physics
-- 🌱 I’m currently doing project
+- 🌱 I’m currently doing a PhD
 - 💞️ I’m looking to collaborate on Neutrino Projects
 - 📫 How to reach me vmerlin02@gmail.com
 
